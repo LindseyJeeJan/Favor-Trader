@@ -17,7 +17,7 @@
   [Install Node.js and npm](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)
 
   ## Usage
-  [Deployed Application](https://favortrader.herokuapp.com)
+  [Deployed Application](https://favortrader-ll.herokuapp.com)
   To begin trading, each user will need to log in or sign up and create a user profile. Favor Trader contains an Activity Feed where all user’s favors needs are listed. On the Activity Feed, favors are listed, and a Google API locates the favor based on the home address provided by the user. Users may initiate a trade for a favor listed then select from their own list of favors to exchange.
 
   ## License
